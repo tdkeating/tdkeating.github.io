@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Taylor Keating"
-  avatar           : "Taylor Keating headshot"
+  avatar           : "headshot.jpg"
   bio              : "MSc Biostatistics Student at University of Washington"
   location         : "Toronto"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "tkeatin@uw.edu"
+  #email            : ""
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
