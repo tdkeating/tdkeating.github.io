@@ -4,7 +4,8 @@ collection: projects
 type: "Study"
 permalink: /projects/young_adult_alcohol_use
 date: 2021-06-15
-location: "University of Washington, Seattle"
+venue: "University of Washington"
+location: "Seattle, WA"
 ---
 
 This is a study exploring the association between self-reported levels of depression and alcohol use in young adults. It is based on data from the National Longitudinal Survey of Youth (1997).
