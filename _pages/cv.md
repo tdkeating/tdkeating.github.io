@@ -28,14 +28,12 @@ Work Experience
     * Taught Middle School level math lessons.
     * Promoted, hosted, and judged Math Contest events hosted by Think Academy.
     * Researched ways to expand customer-base for an educational technology company.
-    * Summarized differences between K-8 math curriculum in Canada and US.
-    * Researched gifted education programs and math enrichment organizations.
+    * Researched gifted education programs, math enrichment organizations, and K-8 curriculum.
 
 * (2019-2020) Marine Department Sales Associate, Bass Pro Shops- Toronto
     * Sold marine electronics and boating equipment.
     * Managed inventory and display of marine products.
     *	Provided demonstrations, educating customers on sonar technology.
-    *	Promoted a passion for the outdoors.
 
 * (2018-2019) Consultant, KPMG- Toronto
     * Worked in the Technology Risk Consulting department.
@@ -53,7 +51,15 @@ Work Experience
   
 Skills
 ======
+* Statistical skills
+  * Study design
+  * Data visualization
+  * Regression modelling of survival/longitudinal/spatial/categorical data
+  * Missing data imputation
+  * Machine learning
+  
 * Programming languages
   * R
+  * SQL
   * Java
   * MATLAB
