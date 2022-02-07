@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Public Housing Project (PHSKC)"
 collection: projects
 type: "Study"
 permalink: /projects/phskc_hud_hears
