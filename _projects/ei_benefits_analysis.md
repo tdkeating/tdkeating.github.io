@@ -3,7 +3,7 @@ title: "Mapping of Employment Insurance Benefits in Canada"
 collection: projects
 type: "Study"
 permalink: /projects/ei_benefits_analysis
-date: 2022-06-16
+date: 2022-03-16
 location: "University of Washington, Seattle"
 ---
 
