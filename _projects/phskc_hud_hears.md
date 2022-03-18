@@ -16,6 +16,7 @@ The project involved designing and implementing a study to evaluate how differen
 It is based on data from the housing authorities (KCHA and SHA), Medicaid, Behavioral Health Recovery Division, Homeless Management Information System, Health Care for the Homeless Network, and Puget Sound Regional Council Opportunity Mapping.
 
 [Slides/Presentation of Findings](https://tdkeating.github.io/files/phskc_hud_hears/HUD_HEARS_Capstone_Final_Technical.pptx) <br/>
+Report is currently being edited for publication <br/>
 Code is in a private GitHub repository 
 
 
