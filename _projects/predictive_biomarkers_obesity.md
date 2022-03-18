@@ -9,7 +9,9 @@ location: "University of Washington, Seattle"
 
 University of Washington, Seattle
 
-This is a group research study which builds a predictive model for obesity by incorporating biomarkers in addition to body mass index (BMI). Some of the statistical methods used are cross-validation, LASSO regression, and ridge regression. It is based on data from the [National Health and Nutrition Examination Survey (NHANES)](https://www.cdc.gov/nchs/nhanes/index.htm).
+This is a group research study which builds a predictive model for obesity by incorporating biomarkers in addition to body mass index (BMI). Some of the statistical methods used are cross-validation, LASSO regression, and ridge regression.
+
+It is based on data from the [National Health and Nutrition Examination Survey (NHANES)](https://www.cdc.gov/nchs/nhanes/index.htm).
 
 [Report](https://tdkeating.github.io/files/predictive_biomarkers_obesity/Predictive_Biomarkers_for_Obesity.pdf) <br/>
 [Code](https://tdkeating.github.io/files/predictive_biomarkers_obesity/Predictive_Biomarkers_for_Obesity-Code.pdf)
