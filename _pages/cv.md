@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
+* M.S. in Biostatistics, University of Washington, 2022
 * B.S. in Mathematics (Chemistry Minor), McGill University, 2018
-* M.S. in Biostatistics, University of Washington, 2022 (expected)
 
 Work Experience
 ======
