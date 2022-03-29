@@ -9,7 +9,7 @@ location: "University of Washington, Seattle"
 
 University of Washington, Seattle
 
-This is an independent research study exploring the distribution of Employment Insurance (EI) benefits in Canada. The study performs prevalence mapping of the proportion of individuals at least 15 years old receiving EI benefits in Canada, as well as performs spatial regression on this data.
+This is an independent research study exploring the distribution of Employment Insurance (EI) benefits in Canada. The study performs prevalence mapping of the proportion of individuals at least 15 years old receiving EI benefits in Canada. As well, it performs spatial regression on this data, to determine whether the proportion receiving EI benefits varies by the make-up of census divisions.
 
 It is based on data from Statistics Canada; [Employment Insurance Statistics](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410032301), [2016 Census Profile](https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=PR&Code1=01&Geo2=PR&Code2=01&Data=Count&SearchText=01&SearchType=Begins&SearchPR=01&B1=All&Custom=&TABID=3), and [geographic shapefiles of Canada](https://www12.statcan.gc.ca/census-recensement/2011/geo/bound-limit/bound-limit-eng.cfm).
 
