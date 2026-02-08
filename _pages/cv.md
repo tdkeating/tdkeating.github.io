@@ -11,14 +11,18 @@ redirect_from:
 
 Education
 ======
-* M.S. in Biostatistics, University of Washington, 2022
-* B.S. in Mathematics (Chemistry Minor), McGill University, 2018
+* M.Sc. in Biostatistics, University of Washington, 2022
+* B.Sc. in Mathematics (Chemistry Minor), McGill University, 2018
 
 Work Experience
 ======
+* (2022-present) Statistician, Statistics Canada- ON
+	* Working on the methodology side of the Canadian Labour Force Survey, producing and analyzing monthly employment data.
+	* Has been responsible for various projects, including Small Area Estimation, seasonal adjustment of time series data, imputation, coverage studies, survey response studies, estimation studies, and various other simulation studies.
+
 * (2021-2022) Intern Epidemiologist, Public Health Seattle & King County- Seattle
-    * Working in the Assessment, Policy Development, and Evaluation Unit on a Housing and Urban Development- Health, Employment, and Residential Stability, Project.
-    * Designing and implementing a study to evaluate how exits from public housing assistance programs are associated with housing stability and economic outcomes.
+    * Worked in the Assessment, Policy Development, and Evaluation Unit on a Housing and Urban Development- Health, Employment, and Residential Stability, Project.
+    * Designed and implemented a study to evaluate how exits from public housing assistance programs are associated with housing stability and economic outcomes.
 
 * (2021-2022) Graduate Teaching Assistant, University of Washington- Seattle
     * Provided support to professors teaching BIOST 514 and 515- Biostatistics I and II.
@@ -33,33 +37,35 @@ Work Experience
 * (2019-2020) Marine Department Sales Associate, Bass Pro Shops- Toronto
     * Sold marine electronics and boating equipment.
     * Managed inventory and display of marine products.
-    *	Provided demonstrations, educating customers on sonar technology.
+    * Provided demonstrations, educating customers on sonar technology.
 
 * (2018-2019) Consultant, KPMG- Toronto
     * Worked in the Technology Risk Consulting department.
-    *	Planned and executed analyses of client IT system controls (user access, program changes).
-    *	Provided recommendations on areas for improvement.
+    * Planned and executed analyses of client IT system controls (user access, program changes).
+    * Provided recommendations on areas for improvement.
 
 * (2017) Course Grader, McGill University- Montreal
-    *	Marked assignments for 100 students in Math 329, Theory of Interest (Financial Math).
-    *	Emphasized clarity in work and noted jumps in logic.
+    * Marked assignments for 100 students in Math 329, Theory of Interest (Financial Math).
+    * Emphasized clarity in work and noted jumps in logic.
   
 * (2014-2017) Director of Transportation, Crestwood Valley Day Camp- Toronto
     * Optimized the daily scheduling and coordination of a 50-bus fleet for >700 campers throughout Toronto metro area.
     * Trained and managed 50 bus counselors.
-    *	Oversaw communication details for bus counselors, camp staff, bus drivers, Stock Transportation, and parents.
+    * Oversaw communication details for bus counselors, camp staff, bus drivers, Stock Transportation, and parents.
   
 Skills
 ======
 * Statistical skills
   * Study design
   * Data visualization
-  * Regression modelling of survival/longitudinal/spatial/categorical data
-  * Missing data imputation
+  * Regression modelling of survival/longitudinal/time series/spatial/categorical data
+  * Imputation
   * Machine learning
   
-* Programming languages
+* Programming languages / skills
   * R
+  * SAS
+  * Git
   * SQL
   * Java
   * MATLAB
