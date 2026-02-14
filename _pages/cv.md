@@ -41,7 +41,7 @@ Work Experience
     * Planned and executed analyses of client IT system controls (user access, program changes), providing recommendations on areas for improvement.
 
 * (2017) Course Grader, McGill University- Montreal
-    * Marked assignments for students in Math 329, Theory of Interest (Financial Math).
+    * Marked assignments for students in a 300-level financial mathematics course.
     * Emphasized clarity in work and noted jumps in logic.
   
 * (2014-2017) Director of Transportation, Crestwood Valley Day Camp- Toronto
